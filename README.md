@@ -10,18 +10,31 @@ But, in a larger sense, we can not dedicate -- we can not consecrate -- we can n
 # My mistress’ eyes are nothing like the sun (Sonnet 130)
 
 My mistress’ eyes are nothing like the sun;
+
 Coral is far more red than her lips’ red;
+
 If snow be white, why then her breasts are dun;
+
 If hairs be wires, black wires grow on her head.
+
 I have seen roses damasked, red and white,
+
 But no such roses see I in her cheeks;
+
 And in some perfumes is there more delight
+
 Than in the breath that from my mistress reeks.
+
 I love to hear her speak, yet well I know
+
 That music hath a far more pleasing sound;
+
 I grant I never saw a goddess go;
+
 My mistress when she walks treads on the ground.
+
 And yet, by heaven, I think my love as rare
+
 As any she belied with false compare.
 
 
@@ -30,14 +43,21 @@ As any she belied with false compare.
 What happens to a dream deferred?
 
 Does it dry up
+
 Like a raisin in the sun?
+
 Or fester like a sore—
+
 And then run?
+
 Does it stink like rotten meat?
+
 Or crust and sugar over—
+
 Like a syrupy sweet?
 
 Maybe it just sags
+
 Like a heavy load.
 
 Or does it explode?
@@ -80,3 +100,4 @@ where Beauty stands and waits
                her fair eternal form 
                                      spreadeagled in the empty air 
                   of existence
+
